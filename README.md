@@ -29,8 +29,7 @@ Estudiante de Ingeniería Civil Informática con foco en algoritmos, aprendizaje
 | **Competición** | ICPC |
 | **Participaciones** | 4 veces representando a la UCM |
 
-> No compito para ganar medallas — compito para mejorar. Cada contest es un benchmark de lo que todavía me falta aprender.
-
+> No compito para ganar medallas — todavía. El objetivo es claro: llegar al podio representando a la UCM. Cada contest es un paso hacia eso.
 ## Enfoque académico
 
 Las matemáticas no son un fin en sí mismas, sino el lenguaje con el que se construyen los mejores sistemas. Mi interés en ecuaciones diferenciales, álgebra lineal y estadística tiene una orientación directa hacia aplicaciones de ingeniería y modelos de ML.
