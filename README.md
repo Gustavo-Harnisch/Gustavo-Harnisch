@@ -24,9 +24,9 @@ Estudiante de Ingeniería Civil Informática con foco en algoritmos, aprendizaje
 
 ## Competencia algorítmica
 
-| | |
-|---|---|
+
 | **Competición** | ICPC |
+|---|---|
 | **Participaciones** | 4 veces representando a la UCM |
 
 > No compito para ganar medallas — todavía. El objetivo es claro: llegar al podio representando a la UCM. Cada contest es un paso hacia eso.
