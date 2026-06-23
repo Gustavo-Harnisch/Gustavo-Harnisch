@@ -1,39 +1,58 @@
-# Gustavo — Civil Computer Engineering
-**Universidad Católica del Maule · Talca, Chile**
+<div align="center">
 
-Estudiante de Ingeniería Civil Informática con foco en algoritmos, aprendizaje automático y matemáticas aplicadas. Me interesa entender los sistemas desde sus fundamentos — tanto a nivel teórico como en su implementación práctica.
+# Gustavo Harnisch
 
----
+**Computer Engineering Student · Data & BI Enthusiast · Chile**
 
-## Áreas de interés
+Turning raw data into clear answers — through SQL, data models and dashboards that help people make better decisions.
 
-![Machine learning](https://img.shields.io/badge/Machine%20learning-7F77DD?style=flat-square&logoColor=white)
-![Inteligencia artificial](https://img.shields.io/badge/Inteligencia%20artificial-AFA9EC?style=flat-square&logoColor=white)
-![Diseño de algoritmos](https://img.shields.io/badge/Dise%C3%B1o%20de%20algoritmos-378ADD?style=flat-square&logoColor=white)
-![Álgebra lineal](https://img.shields.io/badge/%C3%81lgebra%20lineal-1D9E75?style=flat-square&logoColor=white)
-![Ecuaciones diferenciales](https://img.shields.io/badge/Ecuaciones%20diferenciales-1D9E75?style=flat-square&logoColor=white)
-![Estadística](https://img.shields.io/badge/Probabilidad%20y%20estad%C3%ADstica-1D9E75?style=flat-square&logoColor=white)
+[**Portfolio**](https://gustavo-harnisch.github.io) · [GitHub](https://github.com/Gustavo-Harnisch) · [Email](mailto:gusharnisch2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gustavo-ivar-gallegos-harnisch/)
 
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-## Competencia algorítmica
-
-
-| **Competición** | ICPC |
-|---|---|
-| **Participaciones** | 4 veces representando a la UCM |
-
-> No compito para ganar medallas — todavía. El objetivo es claro: llegar al podio representando a la UCM. Cada contest es un paso hacia eso.
-## Enfoque académico
-
-Las matemáticas no son un fin en sí mismas, sino el lenguaje con el que se construyen los mejores sistemas. Mi interés en ecuaciones diferenciales, álgebra lineal y estadística tiene una orientación directa hacia aplicaciones de ingeniería y modelos de ML.
+</div>
 
 ---
 
-*4° año · Ing. Civil Informática · UCM*
+### About
+
+I'm studying **Civil Computer Engineering** and orienting my career toward the **data area** — especially **Business Intelligence, SQL and databases**.
+
+What excites me most is the moment messy information becomes a clean query, a well-shaped data model, and finally a dashboard that *tells a story*. I want to build the kind of work that helps teams stop guessing and start deciding.
+
+> Currently open to internships and entry-level data / BI roles. Available on-site, hybrid or remote.
+
+---
+
+### What I work with
+
+| Focus | Tools |
+|-------|-------|
+| **Data & BI** | SQL · Oracle · Data modeling · Dashboards |
+| **Backend** | Node.js · REST APIs · Query optimization |
+| **Frontend** | React · TypeScript (for data-driven UIs) |
+| **Foundations** | Git · Linux · C++ |
+
+---
+
+### Featured Project
+
+#### [CRUD Oracle](https://github.com/Gustavo-Harnisch/CRUD-oracle) — Full-stack data platform
+End-to-end CRUD application built with **Oracle XE 21c**, **React** and **Node.js**, with automatic validation and a direct connection layer to the database. A hands-on exercise on how a modern frontend can talk to an enterprise RDBMS cleanly.
+
+→ More projects on my [**portfolio**](https://gustavo-harnisch.github.io)
+
+---
+
+### Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Harnisch&show_icons=true&hide=issues&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=7dd3fc&icon_color=a78bfa&text_color=e6edf6" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Harnisch&theme=tokyonight&hide_border=true&background=0a0d14&ring=7dd3fc&fire=a78bfa&currStreakLabel=7dd3fc" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Crafted with care · always learning · open to a good coffee chat.</sub>
+</div>
