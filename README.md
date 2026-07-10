@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner" width="100%" />
 
 # Gustavo Harnisch
 **Computer Engineering Student · Data & BI Enthusiast · Chile**
@@ -60,6 +59,9 @@ If you enjoy my projects or would like to support my journey as a software engin
 </div>
 
 ---
+
+
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
 <div align="center">
 <sub>Crafted with care · always learning · open to a good coffee chat.</sub>
