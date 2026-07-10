@@ -51,7 +51,7 @@ If you enjoy my projects or would like to support my journey as a software engin
 
 <div align="center">
 
-<a href="https://paypal.me/gust547">
+<a href="https://www.paypal.com/donate/?hosted_button_id=6WSB7KJCURD5C">
   <img src="https://img.shields.io/badge/Support%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal">
 </a>
 
