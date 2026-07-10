@@ -1,6 +1,7 @@
 <div align="center">
 
-# Gustavo Harnisch
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d14,100:1a0f08&height=200&section=header&text=Gustavo%20Harnisch&fontSize=42&fontColor=f97316&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20BI%20%C2%B7%20SQL%20%C2%B7%20Oracle%20%C2%B7%20Dashboards&descAlignY=58&descSize=18&descColor=7dd3fc" alt="Banner" width="100%" />
+
 **Computer Engineering Student · Data & BI Enthusiast · Chile**
 
 Turning raw data into clear answers — through SQL, data models and dashboards that help people make better decisions.
@@ -14,7 +15,7 @@ Turning raw data into clear answers — through SQL, data models and dashboards 
 ---
 
 ### About
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="280" align="right" />
 
 I'm studying **Civil Computer Engineering** and orienting my career toward the **data area** — especially **Business Intelligence, SQL and databases**.
 
@@ -41,15 +42,6 @@ What excites me most is the moment messy information becomes a clean query, a we
 End-to-end CRUD application built on **Oracle XE 21c** with a **Node.js** backend, including automatic validation and a direct connection layer to the database. A hands-on exercise on designing clean, reliable communication between an application layer and an enterprise RDBMS.
 
 → More projects on my [**portfolio**](https://gustavo-harnisch.github.io)
-
----
-
-### Activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Harnisch&show_icons=true&hide=issues&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=7dd3fc&icon_color=a78bfa&text_color=e6edf6" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Harnisch&theme=tokyonight&hide_border=true&background=0a0d14&ring=7dd3fc&fire=a78bfa&currStreakLabel=7dd3fc" />
-</div>
 
 ---
 
