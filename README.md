@@ -47,20 +47,19 @@ End-to-end CRUD application built on **Oracle XE 21c** with a **Node.js** backen
 ---
 ### Support my work
 
-Open-source development, learning and personal projects are a significant part of my journey as a software engineering student. If you enjoy my work or find one of my projects useful, your support is greatly appreciated.
+If you enjoy my projects or would like to support my journey as a software engineering student, any contribution is greatly appreciated.
 
 <div align="center">
 
-**Gustavo Ivar Gallegos Harnisch**
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=SZQNWQYBJF2GC">
+<a href="https://paypal.me/gust547">
   <img src="https://img.shields.io/badge/Support%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal">
 </a>
 
-<sub>Your contribution helps support my education, open-source projects and future software development.</sub>
+**Gustavo Ivar Gallegos Harnisch**
+
+<sub>Your support helps me continue learning, building open-source software, and creating new projects.</sub>
 
 </div>
-
 ---
 
 <div align="center">
