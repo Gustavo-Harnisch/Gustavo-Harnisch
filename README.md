@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d14,100:1a0f08&height=200&section=header&text=Gustavo%20Harnisch&fontSize=42&fontColor=f97316&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20BI%20%C2%B7%20SQL%20%C2%B7%20Oracle%20%C2%B7%20Dashboards&descAlignY=58&descSize=18&descColor=7dd3fc" alt="Banner" width="100%" />
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
+# Gustavo Harnisch
 **Computer Engineering Student · Data & BI Enthusiast · Chile**
 
 Turning raw data into clear answers — through SQL, data models and dashboards that help people make better decisions.
@@ -42,6 +43,16 @@ What excites me most is the moment messy information becomes a clean query, a we
 End-to-end CRUD application built on **Oracle XE 21c** with a **Node.js** backend, including automatic validation and a direct connection layer to the database. A hands-on exercise on designing clean, reliable communication between an application layer and an enterprise RDBMS.
 
 → More projects on my [**portfolio**](https://gustavo-harnisch.github.io)
+
+---
+
+### Support
+
+<div align="center">
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=SZQNWQYBJF2GC)
+
+</div>
 
 ---
 
