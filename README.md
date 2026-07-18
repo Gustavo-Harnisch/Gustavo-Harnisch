@@ -1,67 +1,103 @@
+<img
+  src="assets/github-profile-banner.png"
+  alt="Gustavo Harnisch — Data and Business Intelligence"
+  width="100%"
+/>
+
+
 <div align="center">
 
-
 # Gustavo Harnisch
-**Computer Engineering Student · Data & BI Enthusiast · Chile**
 
-Turning raw data into clear answers — through SQL, data models and dashboards that help people make better decisions.
+### Junior Data & BI Developer · Computer Engineering Student
 
-[**Portfolio**](https://gustavo-harnisch.github.io) · [GitHub](https://github.com/Gustavo-Harnisch) · [Email](mailto:gusharnisch2004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gustavo-ivar-gallegos-harnisch/)
+**SQL · Oracle · Data Modeling · Node.js · REST APIs**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=SELECT+insight+FROM+data;WHERE+guessing+%3D+false;Building+dashboards+that+tell+a+story." alt="Typing SVG" />
+Transforming structured data into reliable applications, useful insights and better decisions.
+
+<br>
+
+<a href="https://gustavo-harnisch.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Gustavo-Harnisch">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gustavo-ivar-gallegos-harnisch/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gusharnisch2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
-
 ### About
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="280" align="right" />
 
-I'm studying **Civil Computer Engineering** and orienting my career toward the **data area** — especially **Business Intelligence, SQL and databases**.
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="250" align="right" alt="Developer working with data" />
 
-What excites me most is the moment messy information becomes a clean query, a well-shaped data model, and finally a dashboard that *tells a story*. I want to build the kind of work that helps teams stop guessing and start deciding.
+I'm a **Civil Computer Engineering student based in Chile**, building my career around **Data, Business Intelligence and database development**.
 
-> Currently open to internships and entry-level data / BI roles. Available on-site, hybrid or remote.
+What excites me most is turning messy information into a clear query, a well-structured data model and, ultimately, a dashboard that tells a meaningful story. I want to build solutions that help teams stop guessing and start making informed decisions.
 
----
+I am currently strengthening my skills in **SQL, Oracle, data modeling and backend development with Node.js**.
 
-### What I work with
-
-| Focus | Tools |
-|-------|-------|
-| **Data & BI** | SQL · Oracle · Data modeling · Dashboards |
-| **Backend** | Node.js · REST APIs · Query optimization |
-| **Foundations** | Git · Linux · C++ |
+> 🔎 Currently open to **internships, trainee programs and entry-level Data & BI roles** in Chile — on-site, hybrid or remote.
 
 ---
+### Technical Focus
+
+| Area | Technologies and concepts |
+|---|---|
+| **Data & BI** | SQL · Data analysis · Data modeling · Dashboards |
+| **Databases** | Oracle · Relational databases · Database design |
+| **Backend & APIs** | Node.js · Python · REST APIs · Database integration |
+| **Programming Foundations** | C++ · Rust · JavaScript |
+| **Tools & Systems** | Git · GitHub · Linux |
 
 ### Featured Project
 
-#### [CRUD Oracle](https://github.com/Gustavo-Harnisch/CRUD-oracle) — Full-stack data platform
+#### [CRUD Oracle](https://github.com/Gustavo-Harnisch/CRUD-oracle)
 
-End-to-end CRUD application built on **Oracle XE 21c** with a **Node.js** backend, including automatic validation and a direct connection layer to the database. A hands-on exercise on designing clean, reliable communication between an application layer and an enterprise RDBMS.
+<img src="assets/crud-oracle-preview.png" alt="CRUD Oracle project preview" width="100%" />
 
-→ More projects on my [**portfolio**](https://gustavo-harnisch.github.io)
+Database-driven backend application built with **Oracle XE 21c** and **Node.js**, focused on reliable communication between a REST API and an enterprise relational database.
 
+**Main features**
+
+- CRUD operations connected to Oracle Database
+- REST API built with Node.js
+- Input validation and error handling
+- Database connection management
+- Separation between API and database logic
+- Relational data modeling
+
+**Technologies**
+
+`Node.js` · `Oracle XE 21c` · `SQL` · `REST API` · `JavaScript`
+
+[View repository →](https://github.com/Gustavo-Harnisch/CRUD-oracle)
 ---
 ### Support my work
 
 If you enjoy my projects or would like to support my journey as a software engineering student, any contribution is greatly appreciated.
 
 <div align="center">
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=6WSB7KJCURD5C" target="_blank">
-  <img src="https://img.shields.io/badge/☕%20Support%20my%20Open%20Source%20Work-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support my Open Source Work on PayPal">
-</a>
-
+  <sub>
+    ☕ You can also
+    <a href="https://www.paypal.com/donate/?hosted_button_id=6WSB7KJCURD5C">
+      support my open-source work
+    </a>.
+  </sub>
 </div>
 
-</div>
 
 ---
 
-
-<img src="assets/banner.png" alt="Banner" width="100%" />
 
 <div align="center">
 <sub>Crafted with care · always learning · open to a good coffee chat.</sub>
