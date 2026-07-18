@@ -63,8 +63,6 @@ I am currently strengthening my skills in **SQL, Oracle, data modeling and backe
 
 #### [CRUD Oracle](https://github.com/Gustavo-Harnisch/CRUD-oracle)
 
-<img src="assets/crud-oracle-preview.png" alt="CRUD Oracle project preview" width="100%" />
-
 Database-driven backend application built with **Oracle XE 21c** and **Node.js**, focused on reliable communication between a REST API and an enterprise relational database.
 
 **Main features**
