@@ -8,7 +8,7 @@
 
 ### Junior Data & BI Developer · Competitive Programmer (ICPC) · Computer Engineering Student
 
-**SQL · Oracle · Node.js · REST APIs · Algorithms & Data Structures (C++)**
+**SQL · Oracle · Algorithms & Data Structures (C++)**
 
 Transforming structured data into reliable applications, and solving hard algorithmic
 problems under pressure — same discipline, two angles.
@@ -54,9 +54,8 @@ correctness and efficiency, and shipping something that actually works.
 
 | Area                        | Technologies and concepts                            |
 | :-------------------------- | :--------------------------------------------------- |
-| **Data & BI**               | SQL · Oracle · Data modeling · Dashboards            |
-| **Backend & APIs**          | Node.js · Python · REST APIs · Database integration  |
-| **Algorithms & Structures** | C++ · Competitive programming · DP, graphs, geometry |
+| **Data & BI**               | SQL · Oracle · Data modeling · Dashboards                  |
+| **Algorithms & Structures** | C++ · Competitive programming · DP, graphs, geometry, math |
 | **Programming Foundations** | C++ · Rust · JavaScript                              |
 | **Tools & Systems**         | Git · GitHub · Linux                                 |
 
